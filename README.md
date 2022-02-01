@@ -1,5 +1,5 @@
 # Bilisearch
-search selection by Bilibili/使用哔哩哔哩搜索选中内容的chrome插件
+- 使用哔哩哔哩搜索选中内容的chrome插件/Search selection by Bilibili
 ---
 ## 使用方法
 - chrome或chrome内核浏览器
